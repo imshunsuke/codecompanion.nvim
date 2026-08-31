@@ -1,5 +1,18 @@
 # Changelog
 
+## [19.24.0](https://github.com/olimorris/codecompanion.nvim/compare/v19.23.0...v19.24.0) (2026-08-31)
+
+
+### Features
+
+* **chat:** files/buffers are parsed with context formatters ([#3295](https://github.com/olimorris/codecompanion.nvim/issues/3295)) ([c39ddad](https://github.com/olimorris/codecompanion.nvim/commit/c39ddadd1d4e4f976d5c165348bd89eed98e3178))
+* **tools:** add new `search_help` tool ([#3341](https://github.com/olimorris/codecompanion.nvim/issues/3341)) ([14443f3](https://github.com/olimorris/codecompanion.nvim/commit/14443f38722b6cf9e8ba89b842a4aefde9696013))
+
+
+### Bug Fixes
+
+* **ui:** diffing with last line ([#3339](https://github.com/olimorris/codecompanion.nvim/issues/3339)) ([8aa537e](https://github.com/olimorris/codecompanion.nvim/commit/8aa537e9aa794f0f16d817b982ea5034abd1fc4c)), closes [#3338](https://github.com/olimorris/codecompanion.nvim/issues/3338)
+
 ## [19.23.0](https://github.com/olimorris/codecompanion.nvim/compare/v19.22.0...v19.23.0) (2026-08-24)
 
 
